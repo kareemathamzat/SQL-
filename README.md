@@ -1,2 +1,2 @@
-# SQL-
-Contains all SQL challenges i have worked on
+# SQL
+This repository contains all of the SQL projects and challenges I have worked on.
